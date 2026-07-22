@@ -1,7 +1,7 @@
 # LLM-Apps-with-Chainlit
 This is GenAI chat agent.
 
-# Create a `.env` file in the root directory and add your openai credentials as follows:
+**To run this app first create a `.env` file in the root directory and add your openai credentials as follows:**
 
 ```ini
 OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"

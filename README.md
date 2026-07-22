@@ -1,5 +1,5 @@
 # LLM-Apps-with-Chainlit
-This is GenAI chat agent.
+This is GenAI chat agent. This chatbot is like a Zomato OrderBot. It takes orders and converses with the user.
 
 **To run this app first create a `.env` file in the root directory and add your openai credentials as follows:**
 

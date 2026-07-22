@@ -8,8 +8,12 @@ To Know more about Chainlit, refer the official docs - https://docs.chainlit.io/
 
 
 
----
+--
+**Create a `.env` file in the root directory and add your openai credentials as follows:**
 
+```ini
+OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+```
 
 ### CMD:
 

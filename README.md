@@ -1,21 +1,18 @@
 # LLM-Apps-with-Chainlit
+This is GenAI chat agent.
 
+# Create a `.env` file in the root directory and add your openai credentials as follows:
+
+```ini
+OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+```
 # Chainlit demo
 
 Chainlit is like Streamlit for LLM app development :)
 
 To Know more about Chainlit, refer the official docs - https://docs.chainlit.io/overview
 
-
-
---
-**Create a `.env` file in the root directory and add your openai credentials as follows:**
-
-```ini
-OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-```
-
-### CMD:
+### How to run on CMD:
 
 ```bash
 chainlit init
